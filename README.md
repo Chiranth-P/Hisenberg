@@ -1,4 +1,4 @@
-# Hisenberg.github.io
+# ChiranthP.github.io
 This is my Portfolio Project Web Site
 
 * HTML
